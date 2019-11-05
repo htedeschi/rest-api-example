@@ -1,6 +1,6 @@
 # rest-api-example
 
-[View and use this project at](https://rest-api-example-node.herokuapp.com/)
+[View and use this project in heroku](https://rest-api-example-node.herokuapp.com/)
 
 
 ```json
