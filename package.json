@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-example",
+  "version": "1.0.0",
+  "description": "Simple REST API with NodeJS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedeschi-byui/rest-api-example.git"
+  },
+  "author": "Henrique Tedeschi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tedeschi-byui/rest-api-example/issues"
+  },
+  "homepage": "https://github.com/tedeschi-byui/rest-api-example#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.8"
+  }
+}
